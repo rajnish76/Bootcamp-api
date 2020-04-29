@@ -1,4 +1,4 @@
-# Bootcamp API
+# Node.js Bootcamp API
 
 > Backend API for the Bootcamp application to manage bootcamp, courses, reviews, user, authentication and authorization
 
