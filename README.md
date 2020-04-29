@@ -1,6 +1,6 @@
 # Bootcamp API
 
-> Backend API for Bootcamp.
+> Backend API for the Bootcamp application to manage bootcamp,courses,reviews,user, authentication and authorization
 
 ## Usage
 
