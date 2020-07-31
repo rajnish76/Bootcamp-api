@@ -32,7 +32,7 @@ node seeder -i
 
 ## Demo
 
-Extensive documentation with examples [here](https://documenter.getpostman.com/view/9624002/SzfDwQhx)
+Extensive documentation with examples [here](https://bootcamp-apii.herokuapp.com/)
 
 - Version: 1.0.0
 - Author: Rajnish Srivastava
